@@ -1,5 +1,5 @@
 # project-ideas
 
 # icu-sepsis reinforcement learning project!
-# Finish Mujoco project! (maybe train to stand-up without arms?)
+# Something with cloud computing, best AWS
 # YouTube Playlists App or Website!
