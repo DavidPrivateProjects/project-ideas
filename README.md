@@ -8,7 +8,7 @@
 # Check if someone has done that before!
 # Check if there are C++ puzzles!
 # Maybe lovable company graph idea?
-
+# Check library for poker books!
 
 # Do the Pyspark course first! Then Google cloud and then the dpt course. Or dpt before Google cloud? 
 # Maybe do a databricks course before the final google cloud course
