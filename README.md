@@ -10,5 +10,8 @@
 # Maybe lovable company graph idea?
 # Check library for poker books!
 
+
+# Write program that tells you how much coffein you have left in your system!
+
 # Do the Pyspark course first! Then Google cloud and then the dpt course. Or dpt before Google cloud? 
 # Maybe do a databricks course before the final google cloud course
