@@ -6,6 +6,7 @@
 # Check if there are C++ puzzles!
 # Check library for poker books!
 # Check out front end development a bit more native javascript and react
+# Do a course on Github maybe even with certification, if they have it!
 
 # Write program that tells you how much coffein you have left in your system!
 
