@@ -15,4 +15,6 @@
 # Do the Pyspark course first! Then Google cloud and then the dpt course. Or dpt before Google cloud? 
 # Maybe do a databricks course before the final google cloud course
 
+# Would there be something cool to do with structured streaming?
+
 # Maybe do a Kafka course?
