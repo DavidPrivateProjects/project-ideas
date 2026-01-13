@@ -10,7 +10,7 @@
 
 # Write program that tells you how much coffein you have left in your system!
 
-
+# Why use pyspark streaming instead of kafka?
 
 # Do the Pyspark course first! Then Google cloud and then the dpt course. Or dpt before Google cloud? 
 # Maybe do a databricks course before the final google cloud course
