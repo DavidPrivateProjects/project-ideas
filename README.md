@@ -9,7 +9,7 @@
 # Do a course on Github maybe even with certification, if they have it!
 
 # Write an app that randomized purchase choises so that you only go eat in a fancy restaurant 50% of the time or only fly business 30% of the time. With the randomization effect you wont increase your lifestyle too fast
-
+# Read the webapp development book
 
 # Write program that tells you how much coffein you have left in your system!
 
