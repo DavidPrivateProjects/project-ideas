@@ -21,3 +21,5 @@
 # Would there be something cool to do with structured streaming?
 
 # Maybe do a Kafka course?
+
+# Options trading?
