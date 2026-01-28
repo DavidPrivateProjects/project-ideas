@@ -27,3 +27,5 @@
 # Check up vibe coding of apple apps
 
 # DO A PRESENTATION AI TRAINING
+
+# Problem: No innovation in Switzerland, competitive edge lost? Solution, THE start-up
