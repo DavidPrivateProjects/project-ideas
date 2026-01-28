@@ -25,3 +25,5 @@
 # Azure Fundamentals course makes most sense
 
 # Check up vibe coding of apple apps
+
+# DO A PRESENTATION AI TRAINING
