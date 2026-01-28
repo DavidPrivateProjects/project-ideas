@@ -29,3 +29,4 @@
 # DO A PRESENTATION AI TRAINING
 
 # Problem: No innovation in Switzerland, competitive edge lost? Solution, THE start-up
+# Create a persona of yourself
