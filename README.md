@@ -30,3 +30,5 @@
 
 # Problem: No innovation in Switzerland, competitive edge lost? Solution, THE start-up
 # Create a persona of yourself
+
+# Start with Simulation books!
