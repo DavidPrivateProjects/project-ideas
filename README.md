@@ -32,3 +32,5 @@
 # Create a persona of yourself
 
 # Start with Simulation books!
+
+# Can you crewte some slow living applications?
