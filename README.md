@@ -38,3 +38,5 @@
 # Take vibe coding to the next level, make an agent talk to you over what's app and make him write applications, very cool to show off, like christian told you
 
 # Involve gröbli into the vibe coding, maybe it wil lbe fun?
+
+# Actively include AI agents in work repository somehow?
