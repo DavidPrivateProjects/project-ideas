@@ -40,3 +40,5 @@
 # Involve gröbli into the vibe coding, maybe it wil lbe fun?
 
 # Actively include AI agents in work repository somehow?
+
+# Vibe coding is so much fun 😂
