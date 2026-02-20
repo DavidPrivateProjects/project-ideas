@@ -42,3 +42,5 @@
 # Actively include AI agents in work repository somehow?
 
 # Vibe coding is so much fun 😂
+
+# look into PRs ang git merges more
