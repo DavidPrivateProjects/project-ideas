@@ -18,6 +18,6 @@
 - Presentation Skills / AI Training
 - Kafka or Teraform?
 - Github Course?
-
+- Fabric Certificate?
 
 
