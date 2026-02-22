@@ -1,46 +1,20 @@
 # project-ideas
 # 
-# Create book covers out of AI generated Japanese Newspapers?
-# Create an AI agant that creates Art from the content you consume on a daily or from your daily diary. Content to Art would be an interesting concept!
-# Check if someone has done that before!
-# Check if there are C++ puzzles!
-# Check library for poker books!
-# Check out front end development a bit more native javascript and react
-# Do a course on Github maybe even with certification, if they have it!
 
-# Write an app that randomized purchase choises so that you only go eat in a fancy restaurant 50% of the time or only fly business 30% of the time. With the randomization effect you wont increase your lifestyle too fast
-# Read the webapp development book
 
-# Write program that tells you how much coffein you have left in your system!
 
-# Why use pyspark streaming instead of kafka?
 
-# Do the Pyspark course first! Then Google cloud and then the dpt course. Or dpt before Google cloud? 
-# Maybe do a databricks course before the final google cloud course
 
-# Would there be something cool to do with structured streaming?
 
-# Maybe do a Kafka course?
+# Courses / Certificates
+- Pyspark
+- Presentation Training
+- dbt
+- Google Cloud
+- Azure Fundamentals
+- Presentation Skills / AI Training
+- Kafka or Teraform?
+- Github Course?
 
-# Azure Fundamentals course makes most sense
 
-# Check up vibe coding of apple apps
 
-# DO A PRESENTATION AI TRAINING
-
-# Problem: No innovation in Switzerland, competitive edge lost? Solution, THE start-up
-# Create a persona of yourself
-
-# Start with Simulation books!
-
-# Can you crewte some slow living applications?
-
-# Take vibe coding to the next level, make an agent talk to you over what's app and make him write applications, very cool to show off, like christian told you
-
-# Involve gröbli into the vibe coding, maybe it wil lbe fun?
-
-# Actively include AI agents in work repository somehow?
-
-# Vibe coding is so much fun 😂
-
-# look into PRs ang git merges more
