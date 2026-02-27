@@ -4,6 +4,7 @@
 - Portfolio Viewer -> App that let's you input your portfolio and then shows you your return in the home screen?
 - ART Viewer -> App that shows collection of Art of your choice in your home screen?
 - Make an App that creates Photo colages 
+- Make an app that tracks when you stopped smoking, you have to shamefully delete the app when you start smoking again.
 
 - Make anki cards from end of chapter questions!
 
