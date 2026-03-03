@@ -21,6 +21,6 @@
 - Fabric Certificate?
 
 
-- work harder!
+- work harder! Really focus on these certificates!
 
 
