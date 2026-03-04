@@ -8,6 +8,7 @@
 
 - Make anki cards from end of chapter questions!
 
+- read a hedge fund book?
 
 # Courses / Certificates
 - Pyspark
