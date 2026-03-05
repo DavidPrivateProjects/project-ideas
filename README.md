@@ -5,6 +5,8 @@
 - ART Viewer -> App that shows collection of Art of your choice in your home screen?
 - Make an App that creates Photo colages 
 - Make an app that tracks when you stopped smoking, you have to shamefully delete the app when you start smoking again.
+- App idea: Write messages to your future self, as a support. App can ask you in the beginning, which mood are you in, do you want to receive a message from yourself pr write a message to your future self. then you eighter get a message or write a message. Super easy to code.
+
 
 - Make anki cards from end of chapter questions!
 
