@@ -10,7 +10,7 @@
 
 - Make anki cards from end of chapter questions!
 
-- read a hedge fund book?
+- read a hedge fund book! Yes I made a few pictures with recommendations
 
 # Courses / Certificates
 - Pyspark
