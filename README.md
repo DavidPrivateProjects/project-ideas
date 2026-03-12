@@ -11,7 +11,6 @@
 - Make anki cards from end of chapter questions!
 
 - read a hedge fund book! Yes I made a few pictures with recommendations
-- Create pyspark anki cards
 
 
 # Courses / Certificates
