@@ -15,13 +15,12 @@
 
 # Courses / Certificates
 - Pyspark
-- Presentation Training
 - Google Cloud
 - Azure Fundamentals
 - dbt Analytics Engineering Certification
 - HashiCorp Certified: Terraform Associate
 - Presentation Skills / AI Training
-- Kafka or Teraform?
+- Kafka?
 - Github Course?
 - Fabric Certificate?
 
