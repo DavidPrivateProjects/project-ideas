@@ -20,8 +20,8 @@
 - dbt Analytics Engineering Certification
 - HashiCorp Certified: Terraform Associate
 - Presentation Skills / AI Training
-- Kafka?
 - Github Course?
+- Kafka?
 - Fabric Certificate?
 
 
