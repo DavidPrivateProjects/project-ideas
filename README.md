@@ -19,10 +19,14 @@
 - Azure Fundamentals
 - dbt Analytics Engineering Certification
 - HashiCorp Certified: Terraform Associate
-- Presentation Skills / AI Training
 - Github Course?
 - Kafka?
 - Fabric Certificate?
+
+# After Certificates (Do this asap, after 3-4 certificates)
+- Do software interview prep course
+- Start leetcode again
+- - Presentation Skills / AI Training
 
 
 - work harder! Really focus on these certificates!
