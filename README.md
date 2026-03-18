@@ -18,7 +18,7 @@
 - Google Cloud
 - Azure Fundamentals
 - dbt Analytics Engineering Certification
-- HashiCorp Certified: Terraform Associate
+- HashiCorp Certified: Terraform Associate -> not neccessary, too easy according to ilias
 - Github Course?
 - Kafka?
 - Fabric Certificate?
