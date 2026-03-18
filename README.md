@@ -23,6 +23,8 @@
 - Kafka?
 - Fabric Certificate?
 
+- Always ask Lumen for exam prep questions...
+
 # After Certificates (Do this asap, after 3-4 certificates)
 - Do software interview prep course
 - Start leetcode again
