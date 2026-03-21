@@ -15,13 +15,12 @@
 
 # Courses / Certificates
 - DONE: Pyspark
-- Google Cloud
+- Fabric Certificate DP-700
 - Azure Fundamentals
 - dbt Analytics Engineering Certification
-- HashiCorp Certified: Terraform Associate -> not neccessary, too easy according to ilias
 - Github Course?
+- Google Cloud?
 - Kafka?
-- Fabric Certificate?
 
 - Always ask Lumen for exam prep questions...
 
