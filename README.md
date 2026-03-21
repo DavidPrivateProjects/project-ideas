@@ -16,7 +16,7 @@
 # Courses / Certificates
 - DONE: Pyspark
 - Fabric Certificate DP-700
-- Azure Fundamentals
+- Azure Fundamentals - maybe that is too easy?
 - dbt Analytics Engineering Certification
 - Github Course?
 - Google Cloud?
