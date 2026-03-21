@@ -14,7 +14,7 @@
 
 
 # Courses / Certificates
-- Pyspark
+- DONE: Pyspark
 - Google Cloud
 - Azure Fundamentals
 - dbt Analytics Engineering Certification
