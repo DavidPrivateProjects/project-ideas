@@ -19,7 +19,7 @@
 - Azure Fundamentals - maybe that is too easy?
 - dbt Analytics Engineering Certification
 - Github Course?
-- Google Cloud?
+- Google Cloud? - Google Cloud Professional Data Engineer (GCP)
 - Kafka?
 
 - Always ask Lumen for exam prep questions...
