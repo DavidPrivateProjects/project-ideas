@@ -27,8 +27,9 @@
 # After Certificates (Do this asap, after 3-4 certificates)
 - Do software interview prep course
 - Start leetcode again
-- - Presentation Skills / AI Training
-
+- Presentation Skills / AI Training
+- Do an end-to-end project: for example End-to-end pipeline (ingestion → Spark → dbt → dashboard)
+Real dataset + production-style structure
 
 - work harder! Really focus on these certificates!
 
