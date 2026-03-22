@@ -8,7 +8,7 @@
 - App idea: Write messages to your future self, as a support. App can ask you in the beginning, which mood are you in, do you want to receive a message from yourself pr write a message to your future self. then you eighter get a message or write a message. Super easy to code.
 - App idea: Accountability Buddy App; You see how much your friend has studied and how much you study as an aggregate
 - Is the way really in tech?
-- Make anki cards from end of chapter questions!
+- AI workflow; automatically create and save anki cards to my profile after automatically creating them.
 
 - read a hedge fund book! Yes I made a few pictures with recommendations
 
