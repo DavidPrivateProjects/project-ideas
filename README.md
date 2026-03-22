@@ -13,7 +13,7 @@
 - read a hedge fund book! Yes I made a few pictures with recommendations
 
 
-# Courses / Certificates
+# Courses / Certificates (March, April, May)
 - DONE: Pyspark
 - Fabric Certificate DP-700
 - Azure Fundamentals - maybe that is too easy?
@@ -24,7 +24,7 @@
 
 - Always ask Lumen for exam prep questions...
 
-# After Certificates (Do this asap, after 3-4 certificates)
+# After Certificates (Do this asap, after 3-4 certificates, Start in June)
 - Do software interview prep course
 - Start leetcode again
 - Presentation Skills / AI Training
