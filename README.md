@@ -15,7 +15,7 @@
 
 # Courses / Certificates (March, April, May)
 - DONE: Pyspark
-- Fabric Certificate DP-700
+- Fabric Certificate DP-700 - do exam in person?
 - Azure Fundamentals - maybe that is too easy?
 - dbt Analytics Engineering Certification
 - Github Course?
