@@ -15,12 +15,12 @@
 
 # Courses / Certificates (March, April, May)
 - DONE: Pyspark
-- Fabric Certificate DP-700 - do exam in person?
+- Fabric Certificate DP-700 - do exam in person? 
 - Azure Fundamentals - maybe that is too easy?
 - dbt Analytics Engineering Certification
-- Github Course?
 - Google Cloud? - Google Cloud Professional Data Engineer (GCP)
 - Kafka?
+- Github Course?
 
 - Always ask Lumen for exam prep questions...
 
