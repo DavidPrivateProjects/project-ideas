@@ -21,6 +21,7 @@
 - Google Cloud? - Google Cloud Professional Data Engineer (GCP)
 - Kafka?
 - Github Course?
+- Work harder on courses!
 
 - Always ask Lumen for exam prep questions...
 
