@@ -9,7 +9,7 @@
 - App idea: Accountability Buddy App; You see how much your friend has studied and how much you study as an aggregate
 - Is the way really in tech?
 - AI workflow; automatically create and save anki cards to my profile after automatically creating them.
-
+- GREAT FOR CV AUGMENTED DARA QUALITY PROJECT ON DATA PIPELINE.
 - read a hedge fund book! Yes I made a few pictures with recommendations
 
 
