@@ -12,6 +12,7 @@
 
 - GREAT FOR CV AUGMENTED DARA QUALITY PROJECT ON DATA PIPELINE. use mcp...
 
+
 - read a hedge fund book! Yes I made a few pictures with recommendations
 
 
