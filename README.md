@@ -13,7 +13,7 @@
 
 - GREAT FOR CV AUGMENTED DARA QUALITY PROJECT ON DATA PIPELINE. use mcp...
 
-
+- maybe a cool business idea would be to create the same side for dbt that the other guy created for fabric.
 - read a hedge fund book! Yes I made a few pictures with recommendations
 
 
@@ -28,6 +28,7 @@
 - Work harder on courses!
 
 - Always ask Lumen for exam prep questions...
+- 
 
 # After Certificates (Do this asap, after 3-4 certificates, Start in June)
 - Do software interview prep course
