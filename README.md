@@ -10,7 +10,7 @@
 - Is the way really in tech?
 - AI workflow; automatically create and save anki cards to my profile after automatically creating them.
 - Create a repo, that makes powerpoint slides that make users chose between two random things, than create youtube videos to monetize the slides! Look at Cozy Geography YouTube channel!
-
+- anti-spike: create a drink in vial form to reduce glucose spikes before food.
 - GREAT FOR CV AUGMENTED DARA QUALITY PROJECT ON DATA PIPELINE. use mcp...
 
 - maybe a cool business idea would be to create the same side for dbt that the other guy created for fabric.
