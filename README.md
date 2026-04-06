@@ -39,5 +39,5 @@
 Real dataset + production-style structure
 
 - work harder! Really focus on these certificates!
-
+- Make job list and company list so you know what to apply for and where!
 
