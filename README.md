@@ -3,6 +3,8 @@
 - Salary Comparison to past app? Shows how much your father and grandfather would have made at your age in the same position, price of a house and more interesting facts etc.
 - Portfolio Viewer -> App that let's you input your portfolio and then shows you your return in the home screen?
 - ART Viewer -> App that shows collection of Art of your choice in your home screen?
+- Ticker Hive App: Make an App, that asks you at the beginning of the session what stock your are most bullish on, what stock you are most bearish on, then shows you the statistics of all the users of the app (1 result per user is saved, hive mind like results are returned)
+- Economy Hive App: Same Idea as above, just ask people if the economy is doing good or bad based on 1-10, then show results and move over time, hive ecom. 
 - Make an App that creates Photo colages 
 - Make an app that tracks when you stopped smoking, you have to shamefully delete the app when you start smoking again.
 - App idea: Write messages to your future self, as a support. App can ask you in the beginning, which mood are you in, do you want to receive a message from yourself pr write a message to your future self. then you eighter get a message or write a message. Super easy to code.
