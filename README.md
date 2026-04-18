@@ -18,7 +18,7 @@
 - Look into the leaked Claude code / claw code repo ccunpacked.dev
 - make an app that tracks and displays something like the age in whoop, is there something else that can be tracked?
 - Make croud funding for research activities as an app?
-
+- Start project move to zug
 - maybe a cool business idea would be to create the same side for dbt that the other guy created for fabric.
 - read a hedge fund book! Yes I made a few pictures with recommendations
 
