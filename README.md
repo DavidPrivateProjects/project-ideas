@@ -21,6 +21,7 @@
 - Start project move to zug
 - maybe a cool business idea would be to create the same side for dbt that the other guy created for fabric.
 - read a hedge fund book! Yes I made a few pictures with recommendations
+- Create an index calculator, that shows you how good you are at leetcode.
 
 
 # Courses / Certificates (March, April, May)
